@@ -1,0 +1,141 @@
+{
+  "teams": [
+    "Arsenal",
+    "Aston Villa",
+    "Bournemouth",
+    "Brentford",
+    "Brighton",
+    "Burnley",
+    "Cardiff",
+    "Chelsea",
+    "Crystal Palace",
+    "Everton",
+    "Fulham",
+    "Huddersfield",
+    "Leeds",
+    "Leicester",
+    "Liverpool",
+    "Man City",
+    "Man United",
+    "Newcastle",
+    "Norwich",
+    "Nott'm Forest",
+    "Sheffield United",
+    "Southampton",
+    "Tottenham",
+    "Watford",
+    "West Brom",
+    "West Ham",
+    "Wolves"
+  ],
+  "xg_profiles": {
+    "Arsenal": {
+      "avg_home_xg": 2.259,
+      "avg_away_xg": 1.539
+    },
+    "Aston Villa": {
+      "avg_home_xg": 1.637,
+      "avg_away_xg": 1.233
+    },
+    "Bournemouth": {
+      "avg_home_xg": 1.536,
+      "avg_away_xg": 0.939
+    },
+    "Brentford": {
+      "avg_home_xg": 1.848,
+      "avg_away_xg": 1.143
+    },
+    "Brighton": {
+      "avg_home_xg": 2.665,
+      "avg_away_xg": 1.911
+    },
+    "Burnley": {
+      "avg_home_xg": 1.313,
+      "avg_away_xg": 1.021
+    },
+    "Cardiff": {
+      "avg_home_xg": 1.368,
+      "avg_away_xg": 0.768
+    },
+    "Chelsea": {
+      "avg_home_xg": 1.606,
+      "avg_away_xg": 1.311
+    },
+    "Crystal Palace": {
+      "avg_home_xg": 0.988,
+      "avg_away_xg": 1.175
+    },
+    "Everton": {
+      "avg_home_xg": 1.423,
+      "avg_away_xg": 1.573
+    },
+    "Fulham": {
+      "avg_home_xg": 1.107,
+      "avg_away_xg": 0.988
+    },
+    "Huddersfield": {
+      "avg_home_xg": 1.034,
+      "avg_away_xg": 0.587
+    },
+    "Leeds": {
+      "avg_home_xg": 1.351,
+      "avg_away_xg": 0.826
+    },
+    "Leicester": {
+      "avg_home_xg": 1.511,
+      "avg_away_xg": 1.501
+    },
+    "Liverpool": {
+      "avg_home_xg": 2.466,
+      "avg_away_xg": 1.761
+    },
+    "Man City": {
+      "avg_home_xg": 2.429,
+      "avg_away_xg": 2.03
+    },
+    "Man United": {
+      "avg_home_xg": 2.684,
+      "avg_away_xg": 1.368
+    },
+    "Newcastle": {
+      "avg_home_xg": 2.616,
+      "avg_away_xg": 1.688
+    },
+    "Norwich": {
+      "avg_home_xg": 0.697,
+      "avg_away_xg": 0.916
+    },
+    "Nott'm Forest": {
+      "avg_home_xg": 1.22,
+      "avg_away_xg": 0.916
+    },
+    "Sheffield United": {
+      "avg_home_xg": 0.752,
+      "avg_away_xg": 0.675
+    },
+    "Southampton": {
+      "avg_home_xg": 0.934,
+      "avg_away_xg": 1.074
+    },
+    "Tottenham": {
+      "avg_home_xg": 1.527,
+      "avg_away_xg": 1.336
+    },
+    "Watford": {
+      "avg_home_xg": 1.134,
+      "avg_away_xg": 0.733
+    },
+    "West Brom": {
+      "avg_home_xg": 1.177,
+      "avg_away_xg": 1.11
+    },
+    "West Ham": {
+      "avg_home_xg": 1.812,
+      "avg_away_xg": 1.003
+    },
+    "Wolves": {
+      "avg_home_xg": 1.244,
+      "avg_away_xg": 0.582
+    }
+  }
+}
